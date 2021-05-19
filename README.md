@@ -7,5 +7,5 @@
 - 😄 Pronouns: He/Him
 
 
-<!-- ## Stargazers over time -->
-[![Stargazers over time](https://starchart.cc/pamarthiabhinav/pamarthiabhinav.svg)](https://starchart.cc/pamarthiabhinav/pamarthiabhinav)
+<!-- ## Stargazers over time 
+[![Stargazers over time](https://starchart.cc/pamarthiabhinav/pamarthiabhinav.svg)](https://starchart.cc/pamarthiabhinav/pamarthiabhinav) -->
