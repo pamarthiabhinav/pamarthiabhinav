@@ -5,3 +5,7 @@
 - 👨‍💻 I'm A Coding Enthusiast
 - 📫 How to reach me: [Gmail](mailto:pamarthiabhinavforwork@gmail.com) | [linkedIn](https://www.linkedin.com/in/abhinav-pamarthi)
 - 😄 Pronouns: He/Him
+
+
+<!-- ## Stargazers over time -->
+[![Stargazers over time](https://starchart.cc/pamarthiabhinav/pamarthiabhinav.svg)](https://starchart.cc/pamarthiabhinav/pamarthiabhinav)
