@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 
 
-<script src="https://tryhackme.com/badge/142644"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/pamarthiabhinav.png" alt="TryHackMe">
 
 <!-- [Gmail](mailto:pamarthiabhinavforwork@gmail.com){:target="__blank"} | [linkedIn](https://www.linkedin.com/in/abhinav-pamarthi){:target="__blank"} -->
 
