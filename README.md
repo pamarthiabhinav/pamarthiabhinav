@@ -7,6 +7,8 @@
 - 😄 Pronouns: He/Him
 
 
+<script src="https://tryhackme.com/badge/142644"></script>
+
 <!-- [Gmail](mailto:pamarthiabhinavforwork@gmail.com){:target="__blank"} | [linkedIn](https://www.linkedin.com/in/abhinav-pamarthi){:target="__blank"} -->
 
 <!-- ## Stargazers over time 
